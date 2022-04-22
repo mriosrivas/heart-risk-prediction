@@ -10,4 +10,4 @@ The project is divided in the following parts:
 
 2. [Deployment](https://github.com/mriosrivas/heart-risk-prediction-deployment)
 
-3. [Website Presentation](ttps://github.com/mriosrivas/heart-risk-prediction-webpage)
+3. [Website Presentation](https://github.com/mriosrivas/heart-risk-prediction-webpage)
