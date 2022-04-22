@@ -4,3 +4,6 @@
 [submodule "heart-risk-prediction-deployment"]
 	path = heart-risk-prediction-deployment
 	url = https://github.com/mriosrivas/heart-risk-prediction-deployment.git
+[submodule "heart-risk-prediction-webpage"]
+	path = heart-risk-prediction-webpage
+	url = https://github.com/mriosrivas/heart-risk-prediction-webpage.git
