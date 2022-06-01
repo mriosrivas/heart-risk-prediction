@@ -7,3 +7,6 @@
 [submodule "heart-risk-prediction-webpage"]
 	path = heart-risk-prediction-webpage
 	url = https://github.com/mriosrivas/heart-risk-prediction-webpage.git
+[submodule "heart-risk-prediction-deployment-lambda"]
+	path = heart-risk-prediction-deployment-lambda
+	url = https://github.com/mriosrivas/heart-risk-prediction-deployment-lambda.git
